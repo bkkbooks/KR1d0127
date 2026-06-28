@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1d0127/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮記范氏音曲禮下主佩倚於綺反陸德明釋文月令則蝗蟲為災蝗音橫郊特牲帝牛必在滌三月滌音迪並同上樂記而卵生者不殈音溢釋文戈質切鳥卵坼也集韻入聲五質殈字注喪大記幠用斂衾幠起呂反注同釋文中庸一卷石之多卷羌阮反注同釋文集韻上聲二十阮苦遠切卷區也引禮云范宣讀表記憃而愚憃陽江反又丁終反釋文在小人則穿窬之盜也與窬羊朱反問喪悲哀志懣氣盛懣音悶下同服問有從輕而重從才用反並同上大學於戲音羲釋文引徐范身有所忿懥音稚釋文
+  hash: sha256:98d574609cd39f764470c7a1571bb5f9bc87f1f45b5bcfc0d3cc2de5a435f231
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1d0127_CHANT_001-1a.1-h}
+metadata:
+  title: 禮記范氏音一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1d0127.xml
+hash: sha256:f3351a6853e63387231e91b8a15467c2a1545f6e61957b845391a2dee5153c6f
