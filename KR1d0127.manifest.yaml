@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1d0127_001.yaml, hash: 'sha256:97654ce13f3efdf46d2f8a57387f8d898f1ddf212a612197ab7c68dfdbd3708b'}
+  - {seq: 1, filename: KR1d0127_001.yaml, hash: 'sha256:f3351a6853e63387231e91b8a15467c2a1545f6e61957b845391a2dee5153c6f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1d0127_001.markers.yaml, hash: 'sha256:bba3a843d804066011a722bc0fd3fbe1ef62a4d0334d292de62508af3fedf92c'}
+  - {seq: 1, role: markers, filename: assets/KR1d0127_001.markers.yaml, hash: 'sha256:9bcc39736dd7ba333fb5d73166fd18ea3facb0dee73fff3f941f6a036384bcbb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 禮記范氏音
   type: section
   level: 1
-hash: sha256:efe3dca25e594ade823e744abc90f05767b59b968ec535d71bde03baa4454f56
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b04b2330786c0973ba83e02302a9f40bb774778c3f63ad1a768defbc8c679a3f
